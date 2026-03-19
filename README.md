@@ -1,4 +1,4 @@
-# 🥁 AAAAA Drum Kit
+# 🥁 AAA Drum Kit
 
 > **139 files. 7 kicks. 6 snares. 4 claps. 7 hats. 4 cymbals. 11 percs. 22 loops.**  
 > Every hit in 3 velocities. Loops built from the same one-shots. Ready to drop.
@@ -8,7 +8,7 @@
 ## 📂 Structure
 
 ```
-AAAAA_Drum_Kit/
+AAA_Drum_Kit/
 ├── 01_One_Shots/
 │   ├── Kicks/          #  7 kicks  × 3 velocities  =  21 files
 │   ├── Snares/         #  6 snares × 3 velocities  =  18 files
@@ -242,4 +242,4 @@ Free to use in commercial and non-commercial productions. No credit required. Do
 ---
 
 *139 files · 44.1kHz · 16-bit · Mono*  
-*Part of the AAAAA Producer Series — 808s · Risers · Downlifters · Piano · Drums*
+*Part of the AAA Producer Series — 808s · Risers · Downlifters · Piano · Drums*
