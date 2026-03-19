@@ -1,4 +1,4 @@
-# 🌊 AAAAA Riser Producer Kit
+# 🌊 AAA Riser Producer Kit
 
 > **115 hand-crafted riser samples** — every type, every length, BPM-synced — built for trap, house, techno, cinematic, and everything in between.
 
@@ -7,7 +7,7 @@
 ## 📦 What's Inside
 
 ```
-AAAAA_Riser_Pack/
+AAA_Riser_Pack/
 ├── Noise_Risers/          #  4 types × 3 lengths  =  12 samples
 ├── Synth_Risers/          #  8 types × 3 lengths  =  24 samples
 ├── Drum_Risers/           #  4 types × 3 lengths  =  12 samples
@@ -161,4 +161,4 @@ Free to use in commercial and non-commercial productions. No credit required. Do
 
 ---
 
-*Generated with AAAAA Studio Tools · 44.1kHz · 16-bit · 2026*
+*Generated with AAA Studio Tools · 44.1kHz · 16-bit · 2026*
