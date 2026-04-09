@@ -7,6 +7,18 @@
 
 **115 hand-crafted riser samples + 63 downlifter samples** — every type, every length, BPM-synced — built for trap, house, techno, cinematic, and everything in between.
 
+`free-risers` `downlifters` `transitions` `edm` `trap` `cinematic` `sample-pack` `music-production` `wav` `producer-kit`
+
+---
+
+### Why this pack
+
+- **178 total samples** — the largest free riser + downlifter pack on GitHub
+- **Every transition type** — noise, synth, drum, FX, cinematic, BPM-synced
+- **Matched pairs** — risers and downlifters in 2s, 4s, and 8s for seamless builds and drops
+- **BPM-locked variants** — 80–150 BPM, 4-bar grid-aligned
+- **100% free** — commercial use allowed, no credit required
+
 ---
 
 ## 📦 What's Inside
