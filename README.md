@@ -1,22 +1,33 @@
-# 🌊 AAA Riser Producer Kit
+# 🌊 Free Riser & Downlifter Producer Kit
 
-> **115 hand-crafted riser samples** — every type, every length, BPM-synced — built for trap, house, techno, cinematic, and everything in between.
+> **Part of the [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) sample pack ecosystem**
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/GareBear99?label=Sponsors&logo=github)](https://github.com/sponsors/GareBear99)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/TizWildin)
+
+**115 hand-crafted riser samples + 63 downlifter samples** — every type, every length, BPM-synced — built for trap, house, techno, cinematic, and everything in between.
 
 ---
 
 ## 📦 What's Inside
 
 ```
-AAA_Riser_Pack/
+riser_kit/
 ├── Noise_Risers/          #  4 types × 3 lengths  =  12 samples
 ├── Synth_Risers/          #  8 types × 3 lengths  =  24 samples
 ├── Drum_Risers/           #  4 types × 3 lengths  =  12 samples
 ├── FX_Texture_Risers/     #  7 types × 3 lengths  =  21 samples
 ├── Cinematic_Risers/      #  2 types × 3 lengths  =   6 samples
 └── BPM_Synced/            #  5 types × 8 BPMs     =  40 samples
+
+downlifter_kit/
+├── Noise_Downlifters/     #  4 types × 3 lengths  =  12 samples
+├── Drum_Downlifters/      #  descending rolls + fades
+├── FX_Texture_Downlifters/ # sub bombs, reverse textures
+└── Cinematic_Downlifters/ #  orchestra falls, thriller clusters
 ```
 
-**Total: 115 WAV files · 44.1kHz · 16-bit · Mono**
+**Total: 178 WAV files (115 risers + 63 downlifters) · 44.1kHz · 16-bit · Mono**
 
 Every non-BPM riser comes in **2s, 4s, and 8s** so you can drop exactly the length you need.
 
@@ -161,4 +172,51 @@ Free to use in commercial and non-commercial productions. No credit required. Do
 
 ---
 
-*Generated with AAA Studio Tools · 44.1kHz · 16-bit · 2026*
+---
+
+## 📉 Downlifter Kit (NEW)
+
+The `downlifter_kit/` folder contains **63 downlifter samples** — the inverse of risers. Use them after a drop, during breakdowns, or as transition tails.
+
+### Noise Downlifters
+| File | Character |
+|------|-----------|
+| `Down_White_Noise` | Full-spectrum falling wash |
+| `Down_Pink_Noise` | Filtered warm descent |
+| `Down_Filtered_Sweep` | Bandpass sweep falling from 8kHz → 200Hz |
+| `Down_Granular_Dissolve` | Granular texture with falling pitch density |
+
+### Cinematic Downlifters
+| File | Character |
+|------|-----------|
+| `Down_Orchestra_Fall` | Multi-voice string descent — cinematic |
+| `Down_Sub_Bomb` | Sub drop 120Hz → 20Hz — room-shaking impact |
+| `Down_Thriller_Cluster` | Dissonant cluster fall — horror/tension |
+
+All downlifters come in **2s, 4s, and 8s** lengths to match your risers.
+
+---
+
+## 🔗 More Free Sound Packs from TizWildin
+
+| Pack | Description |
+|------|-------------|
+| [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples tuned to every chromatic key |
+| [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk starter kit — 808s, cowbells, drums, MIDI, templates |
+| [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Loops, fills, drums, bass, synths, pads, and FX |
+| [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | 88 piano notes + dark/cinematic loops and MIDI |
+
+Explore the full plugin and resource list: [**Awesome Audio Plugins & Dev**](https://github.com/GareBear99/awesome-audio-plugins-dev)
+
+---
+
+## ☕ Support
+
+If these samples help your production, consider supporting:
+
+- [GitHub Sponsors](https://github.com/sponsors/GareBear99)
+- [Buy Me a Coffee](https://buymeacoffee.com/TizWildin)
+
+---
+
+*Built by [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) · 44.1kHz · 16-bit · 2026*
